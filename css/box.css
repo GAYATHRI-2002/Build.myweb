@@ -1,0 +1,41 @@
+.text{
+    text-align: center;
+}
+.container{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.container1{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 330px;
+    margin-top: 20px;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;    
+   
+}
+.container2{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-top: 20px;
+
+}
