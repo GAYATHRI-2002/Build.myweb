@@ -1,0 +1,11 @@
+.card{
+    background: #b3f4f0;
+    border: 0;
+    margin-top: 20px;
+}
+.container{
+    background: #b3f4f0;
+}
+#word{
+    text-align: center;
+}
